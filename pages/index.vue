@@ -38,9 +38,9 @@ export default {
 .info {
   text-align: center;
   display: grid;
-  grid-template-columns: 1fr 1fr;
+  grid-template-columns: repeat(auto-fit, minmax(400px, 1fr));
   align-items: center;
-  gap: 1em;
+  gap: 3em 1em;
   padding: 2em 0;
 }
 

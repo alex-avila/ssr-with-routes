@@ -11,7 +11,7 @@
           alt="Pile of Rothy's shoes."
           class="story__img"
         >
-        <p class="is-size-3 has-text-weight-light">
+        <p class="is-size-4 has-text-weight-light">
           A wardrobe staple that goes with pretty much everything. Lightweight comfort.
           A shoe you'd be happy to keep on all day. In Rothy's style, comfort and versatility
           coexist in the first sustainable shoe as atylish as it is comfortable; look good in you
@@ -25,7 +25,7 @@
 <style>
 .about-yellow {
   background: rgb(235, 209, 145);
-  padding: 3em 0;
+  padding: 5em 0;
 }
 
 .story {
